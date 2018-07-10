@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e610b55-1010-462a-bae0-061511260a60" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/android-icon-144x144.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/android-icon-192x192.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/android-icon-36x36.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/android-icon-48x48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/android-icon-72x72.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/android-icon-96x96.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-114x114.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-120x120.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-144x144.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-152x152.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-180x180.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-57x57.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-60x60.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-72x72.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-76x76.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon-precomposed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/apple-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/favicon-16x16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/favicon-32x32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/favicon-96x96.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/ms-icon-144x144.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/ms-icon-150x150.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/ms-icon-310x310.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/favicons/ms-icon-70x70.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/23ae18d9-231a-e2df-d2b0-a30190698e77.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/414cbbeb-5c39-dd62-2357-f59fa45c11f0.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/41c51bd9-b4f4-9a99-c021-d791e14a4356.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/55b5e1b2-a30c-413e-03e9-86d832f0974a.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/5d2588c4-5c9a-52c1-2861-2c0fdf79969c.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/5ef556e2-2339-fdbd-3d8b-a101e1053882.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/6880fde7-16f3-7bc1-725d-6c4766d5a867.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/6a09cf52-40f9-0a0e-43a6-ff78f0e8996c.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/75a041eb-e8b1-1a55-d72c-a15b9a08b678.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/7ebda308-c910-bd38-d521-4e0c46a3b28c.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/952858dd-72d9-7751-2485-222581696a9e.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/99010ae3-4eab-ab32-83ea-143b1a174bc9.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/a3955ca4-b367-4285-a115-136af914c5e3.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/a4c12bb6-b611-6e7a-a99e-d494be4f1f70.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/bd51f1ec-f585-dc41-256a-d778826c00dc.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/e8ee4993-3157-a31d-bd8e-27d8de1e63be.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/ecc506d2-23a2-ff23-3018-8c7d86f0dab8.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/edf93ae2-6be6-a8e8-0350-8d26fbd0caf2.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fc5aa034-7d36-8b6f-cc09-85267e4fcbec.webPlatform.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/offline.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/serviceWorker/rsbuilder-sw-register.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/serviceWorker/rsbuilder-sw.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/assets/php/contact.php" afterPath="$PROJECT_DIR$/assets/script/works_app.js" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="8e610b55-1010-462a-bae0-061511260a60" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -282,16 +228,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531225492136</updated>
-      <workItem from="1531225494442" duration="21178000" />
+      <workItem from="1531225494442" duration="21590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21178000" />
+    <option name="totallyTimeSpent" value="21590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -299,7 +244,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
