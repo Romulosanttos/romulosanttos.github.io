@@ -3,7 +3,7 @@
     "lang": "English",
     "name": "Rômulo Santos - Personal Portfolio",
     "scope": "/",
-    "display": "browser",
+    "display": "standalone",
     "start_url": "https://romulosanttos.github.io/",
     "short_name": "RS",
     "theme_color": "transparent",

@@ -7,6 +7,12 @@
  * Copyright 2015 Script Eden
  * Licensed under MIT
 */
+@media all and (display-mode: standalone) {
+	body {
+		margin: 0;
+		border: 5px solid black;
+	}
+}
 
 body {
 	font: 300 14px/1.8 'Raleway', sans-serif;
