@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "Rômulo Santos - Personal Portfolio",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://romulosanttos.github.io/",
+    "short_name": "RS",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/assets/icons/952858dd-72d9-7751-2485-222581696a9e.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/fc5aa034-7d36-8b6f-cc09-85267e4fcbec.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/99010ae3-4eab-ab32-83ea-143b1a174bc9.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/a4c12bb6-b611-6e7a-a99e-d494be4f1f70.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/6880fde7-16f3-7bc1-725d-6c4766d5a867.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/55b5e1b2-a30c-413e-03e9-86d832f0974a.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/414cbbeb-5c39-dd62-2357-f59fa45c11f0.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/41c51bd9-b4f4-9a99-c021-d791e14a4356.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/edf93ae2-6be6-a8e8-0350-8d26fbd0caf2.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/23ae18d9-231a-e2df-d2b0-a30190698e77.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/5d2588c4-5c9a-52c1-2861-2c0fdf79969c.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/5ef556e2-2339-fdbd-3d8b-a101e1053882.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/75a041eb-e8b1-1a55-d72c-a15b9a08b678.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/a3955ca4-b367-4285-a115-136af914c5e3.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/e8ee4993-3157-a31d-bd8e-27d8de1e63be.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/7ebda308-c910-bd38-d521-4e0c46a3b28c.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/ecc506d2-23a2-ff23-3018-8c7d86f0dab8.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/bd51f1ec-f585-dc41-256a-d778826c00dc.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/6a09cf52-40f9-0a0e-43a6-ff78f0e8996c.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
